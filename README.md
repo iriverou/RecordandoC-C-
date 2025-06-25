@@ -6,17 +6,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-brightgreen.svg)](https://github.com/iriverou/RecordandoC-C-)
 
-## 📖 Descripción
-
-Esta guía está diseñada para programadores que ya tienen conocimientos básicos de C++ y desean **refrescar su memoria** o **repasar conceptos fundamentales**. Incluye explicaciones detalladas, ejemplos prácticos y ejercicios para fortalecer el aprendizaje.
-
-## 🎯 Objetivos
-
-- ✅ Repasar sintaxis básica y conceptos fundamentales
-- ✅ Practicar con ejemplos reales y funcionales
-- ✅ Reforzar buenas prácticas de programación
-- ✅ Prepararse para proyectos más avanzados
-
 ## 📚 Contenido de la Guía
 
 ### 📁 1. Fundamentos Básicos
@@ -94,14 +83,6 @@ programa.exe      # Windows
 
 Para instrucciones detalladas, consulta [`COMPILACION.md`](COMPILACION.md)
 
-## 🎯 Cómo Usar Esta Guía
-
-1. **📖 Empieza por los fundamentos** - Aunque ya sepas C++, es bueno repasar
-2. **💻 Compila y ejecuta** cada ejemplo para ver los resultados
-3. **🔬 Experimenta** - Modifica el código para entender mejor
-4. **💪 Practica** - Resuelve los ejercicios al final
-5. **📝 Toma notas** - Anota conceptos que quieras recordar
-
 ## � Lista de Ejercicios
 
 El archivo [`ejercicios_practicos.cpp`](ejercicios_practicos.cpp) incluye:
@@ -117,34 +98,9 @@ El archivo [`ejercicios_practicos.cpp`](ejercicios_practicos.cpp) incluye:
 9. **Transponer matriz** - Manipulación de arrays 2D
 10. **Validador de contraseña** - Validación con múltiples criterios
 
-## 🎨 Características del Código
 
-- ✅ **Comentarios extensivos** que explican cada concepto
-- ✅ **Ejemplos prácticos** y casos de uso reales
-- ✅ **Progresión lógica** de básico a intermedio
-- ✅ **Buenas prácticas** de programación
-- ✅ **Código compilable** y probado
-- ✅ **Ejercicios con soluciones** para practicar
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si encuentras errores, tienes sugerencias o quieres agregar más ejemplos:
-
-1. 🍴 Fork el repositorio
-2. 🌟 Crea una nueva rama (`git checkout -b feature/mejora`)
-3. 📝 Haz tus cambios
-4. ✅ Commit tus cambios (`git commit -m 'Agregar nueva característica'`)
-5. 📤 Push a la rama (`git push origin feature/mejora`)
-6. 🔄 Abre un Pull Request
 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver [`LICENSE`](LICENSE) para más detalles.
 
-## 🙋‍♂️ Autor
-
-Creado con ❤️ para la comunidad de programadores que quieren refrescar sus conocimientos de C++.
-
----
-
-⭐ **¿Te resultó útil?** ¡Dale una estrella al repositorio y compártelo con otros programadores!
